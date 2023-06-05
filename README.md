@@ -11,6 +11,10 @@ This project is an offline programming exercise for industrial robots in the ELE
 
 
 
+https://github.com/Exsusiai/Robotics_Project_Work/assets/40732564/49748239-a5ed-4eaf-b6b3-c538012b689a
+
+
+
 ## Author
 
 [Jingsheng Chen](mailto:chjingsheng@gmail.com)  @Aalto University
