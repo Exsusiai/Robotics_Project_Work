@@ -11,7 +11,7 @@ This project is an offline programming exercise for industrial robots in the ELE
 
 
 
-https://github.com/Exsusiai/Robotics_Project_Work/assets/40732564/49748239-a5ed-4eaf-b6b3-c538012b689a
+https://github.com/Exsusiai/Robotics_Project_Work/assets/40732564/6f5635e1-ed3e-490c-9480-93f440da632f
 
 
 
